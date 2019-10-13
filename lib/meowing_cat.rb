@@ -3,11 +3,11 @@
 class Cat
   def name=(name)
     @name = name
-  end 
+  end
 
-  def name 
+  def name
     name
-  end 
+  end
   def meow
     puts "meow!"
   end
