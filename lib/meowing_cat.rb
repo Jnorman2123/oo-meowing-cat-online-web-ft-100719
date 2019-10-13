@@ -3,3 +3,5 @@
 class Cat
   attr_accesor = :name
 end
+
+"Maru" = Cat.new
